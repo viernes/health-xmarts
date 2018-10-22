@@ -1,0 +1,4 @@
+[submodule "viernes/hospital"]
+	path = viernes/hospital
+	url = git@github.com:viernes/hospital.git
+	branch = master
